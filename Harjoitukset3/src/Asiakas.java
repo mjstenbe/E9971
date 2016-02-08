@@ -1,10 +1,10 @@
 
-public class Asiakas extends Henkilö{
+public class Asiakas extends HenkilÃ¶{
 	
 	private int asiakasnumero; 
 	private int luottoraja; 
 	private String tilinumero;
-	private String jotainMuuta;
+	private String jotainMuuta22;
 	
 	private Asiakas(){
 		asiakasnumero = 0;
