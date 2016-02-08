@@ -4,6 +4,7 @@ public class Asiakas extends Henkilö{
 	private int asiakasnumero; 
 	private int luottoraja; 
 	private String tilinumero;
+	private String asiakastunnus;
 	
 	private Asiakas(){
 		asiakasnumero = 0;
